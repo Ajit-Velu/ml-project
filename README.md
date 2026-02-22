@@ -1,2 +1,2 @@
 # ml-project
-ML project with training and prediction scripts.
+ML project
